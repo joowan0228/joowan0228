@@ -1,8 +1,9 @@
 ![banner](./assets/banner.gif)
 
-# 👋 안녕하세요! 저는 백엔드 개발자입니다. 👨‍💻
+# 👋 안녕하세요! 저는 백엔드 개발자입니다.
 
 안녕하세요! 저는 백엔드 개발을 하고 있는 **joowan0228** 입니다.
+
 
 ---
 
@@ -19,7 +20,7 @@
 
 ## 📊 깃허브 스탯
 
-![joowan0228's GitHub stats](https://github-readme-stats.vercel.app/api?username=joowan0228&show_icons=true&theme=tokyonight)
+![joowan0228's GitHub stats](https://github-readme-stats.vercel.app/api?username=joowan0228&show_icons=true&theme=github_dark)
 
 ---
 
